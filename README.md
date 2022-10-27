@@ -49,12 +49,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-
+#### Initial Dataframe :
 ![op](./ml61.png)
+#### Checking for null values :
 ![op](./ml62.png)
 ![op](./ml63.png)
+#### Appling Label Encoder:
 ![op](./ml64.png)
 ![op](./ml65.png)
+#### Accuarcy :
 ![op](./ml66.png)
 
 ## Result:
